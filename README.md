@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-# Study-Tracker
-=======
-
-
 # Study Tracker
 
 学習時間を記録・可視化できるシンプルな学習ログアプリです。
 
 ## デモ
+
 https://study-tracker-xi-nine.vercel.app/
 
 ## 概要
@@ -56,4 +52,3 @@ npm run dev
 ## 作者
 
 ram
->>>>>>> a118bdd (README修正、加筆)
